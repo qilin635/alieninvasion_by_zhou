@@ -14,7 +14,7 @@
 - **游戏状态**：显示当前得分、最高分、关卡和剩余飞船数量。
 - **随机性**：每次单击play按钮后生成的外星人编组都是不一样的
 ```python
-   def _create_alien(self, alien_number, row_number):   #显示剩余飞船个数
+   def _create_alien(self, alien_number, row_number):   
       
        alien = Alien(self)
        alien_width, alien_height = alien.rect.size
