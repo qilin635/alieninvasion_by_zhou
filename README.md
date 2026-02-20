@@ -40,6 +40,7 @@
    ```bash
    git clone https://github.com/qilin635/alien-invasion.git
    cd alien-invasion
+   ```
 
 
 ##如有错误，欢迎提出建议
